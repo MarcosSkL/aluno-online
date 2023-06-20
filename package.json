@@ -1,0 +1,11 @@
+{
+  "name": "unit-jest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
